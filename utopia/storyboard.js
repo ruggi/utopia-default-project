@@ -33,5 +33,17 @@ export var storyboard = (
     >
       <App style={{}} />
     </Scene>
+    <span
+      style={{
+        position: 'absolute',
+        wordBreak: 'break-word',
+        left: -13,
+        top: 201,
+        width: 'max-content',
+        height: 'max-content',
+      }}
+    >
+      hello
+    </span>
   </Storyboard>
 )
